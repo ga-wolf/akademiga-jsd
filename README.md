@@ -1,4 +1,4 @@
-# Akademi GA MyStep Programme: JavaScript Development
+# Akademi GA MySTEP Programme: JavaScript Development
 
 ## Classes
 
