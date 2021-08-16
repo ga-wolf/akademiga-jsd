@@ -2,19 +2,14 @@
 
 ## August 16, 2021
 
-### [Slides](https://bit.ly/jsd-class-00)
+### [Slides](./slides/jsd-class-dom-2.pdf)
 
 ### Contents
 
-- Welcome
-- Introductions
-- Class Overview
-- Web Development Overview
-- JavaScript's Role
-- JavaScript's History
-- JavaScript's Data Types
-- JavaScript's Variables
-- JavaScript's Operators
-- JavaScript's Conditionals
-- JavaScript's Loops
-- Review
+- JavaScript and the Browser
+- More events and animations
+- Bubbling and capturing
+- Event propagation
+- Event delegation
+- Preventing default behaviour
+- Templating

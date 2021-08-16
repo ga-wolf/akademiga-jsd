@@ -1,4 +1,4 @@
-var glossary = [
+let glossary = [
   {
     term: "Virtual Machine",
     class: 00,
