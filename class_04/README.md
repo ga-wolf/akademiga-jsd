@@ -1,8 +1,8 @@
-# Class 00
+# Class 04
 
-## August 9, 2021
+## August 16, 2021
 
-### [Slides](./slides/jsd-class-00.pdf)
+### [Slides](https://bit.ly/jsd-class-00)
 
 ### Contents
 

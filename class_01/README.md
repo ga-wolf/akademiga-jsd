@@ -2,7 +2,7 @@
 
 ## August 11, 2021
 
-### [Slides](https://bit.ly/jsd-class-01)
+### [Slides](./slides/mystep-programme-jsd-class-01.pdf)
 
 ### Contents
 

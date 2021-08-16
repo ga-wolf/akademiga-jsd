@@ -2,7 +2,7 @@
 
 ## August 12, 2021
 
-### [Slides](https://bit.ly/jsd_class_02)
+### [Slides](./slides/jsd-class-02.pdf)
 
 ### Contents
 
