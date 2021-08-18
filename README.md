@@ -7,3 +7,5 @@
 - [Class 02](class_02/README.md)
 - [Class 03](class_03/README.md)
 - [Class 04](class_04/README.md)
+- [Class 05](class_05/README.md)
+- [Class 06](class_06/README.md)
