@@ -1,0 +1,17 @@
+body {
+  background: dodgerblue;
+  margin: 0;
+}
+
+svg {
+  height: 100vh;
+  width: 100vw;
+}
+
+path {
+  stroke: white;
+  stroke-width: 5;
+  stroke-dasharray: 1894.0460205078125;
+  stroke-dashoffset: 1894.0460205078125;
+  /* transition: stroke-dashoffset 1s linear; */
+}
