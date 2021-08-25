@@ -1,13 +1,9 @@
-# Class 10
+# Class 11
 
-## August 24, 2021
+## August 25, 2021
 
 ### [Slides](./slides/jsd-class-react.pdf)
 
 ### Contents
 
-- Node
-- NPM
-- Modules
-- Parcel
 - React
