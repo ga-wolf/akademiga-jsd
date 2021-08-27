@@ -1,5 +1,5 @@
-CREATE TABLE users (
+CREATE TABLE animals (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name TEXT,
-  email TEXT
+  habitat TEXT
 );
